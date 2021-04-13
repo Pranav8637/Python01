@@ -1,4 +1,32 @@
 Git Commands 
 
+Git Configuration
+
+git config --global user.email "pranav8637@gmail.com" -------------------------------------------->
+
+git config --global user.name "Pranav Khatri" ----------------------------------------------------> one time config
+
+git config --global user.password "Your Password" --> setting a password for your git ------------>
+
+Git Adding to Repo process
+
 git clone "github.com/pranav8637/Python01.git"
+
+pushing a updated files in the git repo
+
+git status --> checking the status of the repo
+
+git add . --> adds all the files to the repo
+
+git commit -m "first commit" --> commits the file to the repo
+
+git push -u origin master --> adds the files in the github repo 
+
+git pull --> repo changes updated in the machine ((to get the chances from different workspace))
+
+
+
+
+
+
 
